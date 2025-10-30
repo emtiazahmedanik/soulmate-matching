@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "863134484823",
+    "project_id": "simply-a95c9",
+    "storage_bucket": "simply-a95c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863134484823:android:6df360854f53cf04c11612",
+        "android_client_info": {
+          "package_name": "com.simply.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863134484823-paoa2rrcnh95alg8ij0anue8ci1ibnhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simply.unity",
+            "certificate_hash": "ff4c6b266b2629d0a36daecb1d391cee8b59303e"
+          }
+        },
+        {
+          "client_id": "863134484823-9k7l193nva0eden4tjqvulg5pom9p88r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEeRtU7eScxj2uo7YqbhGKgeAIhCzmCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863134484823-9k7l193nva0eden4tjqvulg5pom9p88r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863134484823-qaqa7t3aikpro9hiu6h19ridohj6tnpt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simply.unity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
