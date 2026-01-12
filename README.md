@@ -12,3 +12,6 @@ Implemented real-time profile updates, user interactions, and efficient data que
 
 Ensured scalable data structure, proper security rules, and smooth user experience
 Technologies: Flutter, GetX, Firebase Auth, Cloud Firestore
+
+Here is demonstration:
+https://www.loom.com/share/f9ae39761cb64bd48760d4294494862a
