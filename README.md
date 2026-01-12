@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-# elias_creed
+Unity – Matchmaking Mobile Application (Firebase Backend)
 
-A new Flutter project.
+Built a cross-platform Flutter application that matches users based on profile preferences
 
-## Getting Started
+Designed and implemented the entire backend using Firebase, including:
 
-This project is a starting point for a Flutter application.
+Firebase Authentication for secure user login
 
-A few resources to get you started if this is your first Flutter project:
+Cloud Firestore for real-time data storage and matching logic
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Implemented real-time profile updates, user interactions, and efficient data querying
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# elias_creed
->>>>>>> 7aab9b663de34ee023f5e5f3d6878e069de88287
+Ensured scalable data structure, proper security rules, and smooth user experience
+Technologies: Flutter, GetX, Firebase Auth, Cloud Firestore
